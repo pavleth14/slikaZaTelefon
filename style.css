@@ -1,8 +1,11 @@
 .slika{
   width: 300px;
+  margin: auto;
+  margin: 1em auto;
 }
 
 img.product {
   max-width: 100%;
   border: 1px solid black;
+
 }
